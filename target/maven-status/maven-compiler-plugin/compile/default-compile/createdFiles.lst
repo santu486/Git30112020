@@ -1,0 +1,8 @@
+com\san\spring\datajpa\controller\TutorialController.class
+com\san\spring\datajpa\serviceImpl\TutorialServiceImpl.class
+com\san\CorsConfig$1.class
+com\san\spring\datajpa\repository\TutorialRepository.class
+com\san\spring\datajpa\model\Tutorial.class
+com\san\spring\datajpa\service\ITutorialService.class
+com\san\TutorialApp.class
+com\san\CorsConfig.class
